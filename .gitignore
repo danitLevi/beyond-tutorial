@@ -133,3 +133,6 @@ dmypy.json
 
 # nohup.out
 nohup.out
+
+# db.sqlite3
+db.sqlite3
